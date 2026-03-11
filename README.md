@@ -93,7 +93,6 @@ For example, high-income and high-spending clusters can be distinguished from lo
 - `customer_segmentation_analysis.ipynb` — notebook for data cleaning, EDA, and clustering
 - `streamlit_dashboard.py` — Streamlit dashboard application
 - `marketing_campaign_clustered.csv` — clustered output dataset
-- `customer_segmentation_dashboard_report.pdf` — project report with dashboard explanation
 
 ## Resume Relevance
 
